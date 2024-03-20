@@ -27,7 +27,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEXLAADKAADMERHVSkrURkb////eeXnghITfgIDstrbFAADJAADhiorPJCTVSUliGH6+AAAAUklEQVR4AWMgETAKQoEAmKvsAgVGYEnTUCgIFmBgYmAQgOtiAHERACdXSNkBmevi/AGZyxrwAU3v4OJ+gLACGP7DA8dZgOGeixEi6ECUAIlhDgBoOA7wXH0RDQAAAABJRU5ErkJggg==" style="height:26px;width:26px" alt="" data-csiid="8" data-atf="1"/>
+        <img https://typescript.org/images/logo.png" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Nuxt
     </td>

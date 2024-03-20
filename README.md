@@ -15,7 +15,7 @@
     </td>
          <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="http://reactjs.org/image/logo.png" width="48" height="48" alt="React" />
+      <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" width="120" alt="React Icons" style="max-width: 100%; visibility: visible;" data-xblocker="passed" />
       </a>
       <br>React
     </td>

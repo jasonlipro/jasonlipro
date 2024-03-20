@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Willam Jones</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jasonli</h1>
 
 
 <h2 align="left" id="macropower-tech">Favorite Web Tech</h2>
@@ -7,12 +7,6 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/React-icon.svg.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://static-00.iconduck.com/assets.00/brand-nextjs-icon-512x512-iz9ba3mc.png" width="48" height="48" alt="Next" />

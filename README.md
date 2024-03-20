@@ -26,12 +26,6 @@
       <br>Vue
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img https://typescript.org/images/logo.png" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Nuxt
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Kubernetes" />
       </a>
